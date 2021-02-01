@@ -3,8 +3,8 @@
     padding-bottom: 10px;
     border: 0px;
     margin: 0px;
-    background: #ccdbfd;
-    border-bottom: 1px solid #a2a2a4;
+    background: #c1d3fe;
+    /*border-bottom: 1px solid #a2a2a4;*/
 }
 
 .navbar-title {
@@ -12,6 +12,6 @@
     justify-content: flex-start;
     padding-left: 25px;
     border: 0px;
-    background: #ccdbfd;
+    background: #c1d3fe;
     color: white;
 }
