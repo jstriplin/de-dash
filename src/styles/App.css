@@ -1,0 +1,16 @@
+
+* {
+  background-color: #f8f5f5;
+  font-family: 'Quicksand', sans-serif;
+  border: 0px;
+  margin: 0px;
+}
+
+.chart-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  padding-left: 200px;
+}
